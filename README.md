@@ -1,2 +1,2 @@
 # Balls-Game
-A simple Canvas and JavasScript.
+A simple Canvas and JavasScript Game.
